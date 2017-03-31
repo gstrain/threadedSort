@@ -1,1 +1,2 @@
 # threadedSort
+This program is a C program that performs a multithreaded operation to sort a list of integers specified in a text file. The run requires that the user enter an input text file and an output text file from the command line in format: ./sort nameofinput.txt nameofoutput.txt. Then, the program will perform a multithreaded sort of the integers from the file of any length and prints the resultant, sorted list to the output file specified.
